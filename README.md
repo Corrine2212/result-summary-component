@@ -19,7 +19,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./images/Frontend%20Mentor%20%7C%20QR%20code%20component.png) - change this!!
+![](./images/Frontend%20Mentor%20_%20Results%20summary%20component.png) 
 
 ### Links
 
@@ -42,6 +42,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Author
 
 - Website - [Corrine Sing](https://www.your-site.com)
-- Frontend Mentor - [@@Cokidoki](https://www.frontendmentor.io/profile/Cokidoki)
+- Frontend Mentor - [@Cokidoki](https://www.frontendmentor.io/profile/Cokidoki)
 - Twitter - [@cokidoki](https://www.twitter.com/cokidoki)
 - LinkedIn - [Corrine Sing](https://www.linkedin.com/in/corrine-sing-a27735b2/)
