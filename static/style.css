@@ -235,8 +235,16 @@ button {
   font-family: 'Outfit', sans-serif;
 }
 
-.attribution { 
-  font-size: 11px; text-align: center; }
+.attribution {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+
+  font-size: 11px;
+  text-align: center;
+}
   
 .attribution a { 
   color: hsl(228, 45%, 44%); }
