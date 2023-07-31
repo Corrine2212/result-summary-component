@@ -23,8 +23,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-iu1FbW_E_O
-- Live page : https://corrine2212.github.io/qr_code_component/
+- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-using-html-and-css-tqaGhmCZ8O
+- Live page : https://corrine2212.github.io/result-summary-component/
 
 ## My process
 
